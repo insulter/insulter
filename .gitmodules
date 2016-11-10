@@ -7,3 +7,6 @@
 [submodule "insulter-gateway"]
 	path = insulter-gateway
 	url = git@github.com:insulter/insulter-gateway.git
+[submodule "insulter-data"]
+	path = insulter-data
+	url = git@github.com:insulter/insulter-data.git
