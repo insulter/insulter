@@ -1,0 +1,9 @@
+[submodule "insulter-web"]
+	path = insulter-web
+	url = git@github.com:insulter/insulter-web.git
+[submodule "insulter-eureka"]
+	path = insulter-eureka
+	url = git@github.com:insulter/insulter-eureka.git
+[submodule "insulter-gateway"]
+	path = insulter-gateway
+	url = git@github.com:insulter/insulter-gateway.git
